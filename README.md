@@ -1,3 +1,3 @@
 # Personal-Website
 
-https://sreelekshmis2021.github.io/Personal-Website/
+ https://sreelekshmisanthosh.github.io/Personal-Website/
